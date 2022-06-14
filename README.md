@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Cristobal Acuña, a Computer Engineer student from Chile, currently in his last year. 
+- 👋 Hi, I’m Cristobal Acuña, a Computer Engineer from Chile
 - 👾 I’m interested in game development and game art
-- 🌱 I’m currently work at 42Labs
 - 👀 You can see the projects that i've personally worked on here.
 - 📫 How to reach me: 
 
